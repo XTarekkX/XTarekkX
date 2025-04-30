@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AbdElRahman</h1>
-<h3 align="center">A passionate Network security & AI engineer</h3>
+<h3 align="center">A passionate Network & AI engineer</h3>
 
 - 📫 How to reach me **abd.saadfahmy@gmail.com**
 
